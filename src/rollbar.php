@@ -1,5 +1,5 @@
 <?php
-include 'Level.php';
+include_once 'Level.php';
 
 /**
  * Singleton-style wrapper around RollbarNotifier
